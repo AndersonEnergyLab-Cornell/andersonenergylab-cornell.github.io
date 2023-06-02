@@ -1,5 +1,5 @@
 ---
-title: "Congratulations to Elnaz on her new tenure-track position at Texas A&M University!"
+title: "Congratulations to Dr. Elnaz Kabir on her new tenure-track position at Texas A&M University!"
 author: Lindsay Anderson
 tags: news
 category: jobs

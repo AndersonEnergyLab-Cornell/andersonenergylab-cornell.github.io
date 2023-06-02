@@ -1,5 +1,5 @@
 ---
-title: "Congratulations to Vivienne on her new position at National Renewable Energy Lab!"
+title: "Congratulations to Vivienne Liu on her new position at National Renewable Energy Lab!"
 author: Lindsay Anderson
 tags: news
 category: jobs
