@@ -6,4 +6,4 @@ category: jobs
 layout: post
 ---
 
-Elnaz Kabir will join Texas A&M University as an Assistant Professor in the Department of Engineering Technology and Industrial Distribution, starting August 2023!
+Elnaz Kabir will join Texas A&M University as an Assistant Professor in the Department of Engineering Technology and Industrial Distribution, starting August 2023. Congratulations Elnaz!
