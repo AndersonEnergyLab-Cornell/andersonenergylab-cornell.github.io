@@ -6,9 +6,39 @@
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 May 2023 18:08:43 +0000</pubDate>
-    <lastBuildDate>Mon, 01 May 2023 18:08:43 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2023 17:12:24 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Jun 2023 17:12:24 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Congratulations to Vivienne on her new position at National Renewable Energy Lab!</title>
+        <description>&lt;p&gt;Vivienne Liu will join the Grid Operations Planning Group in the Grid Planning and Analysis Center at NREL as a researcher, starting September 2023. Congratulations Vivienne!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+        <link>https://andersonenergylab-cornell.github.io/2023/06/VivienneNREL/</link>
+        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2023/06/VivienneNREL/</guid>
+        
+        <category>news</category>
+        
+        
+        <category>jobs</category>
+        
+      </item>
+    
+      <item>
+        <title>Congratulations to Elnaz on her new tenure-track position at Texas A&amp;M University!</title>
+        <description>&lt;p&gt;Elnaz Kabir will join Texas A&amp;amp;M University as an Assistant Professor in the Department of Engineering Technology and Industrial Distribution, starting August 2023!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+        <link>https://andersonenergylab-cornell.github.io/2023/06/ElnazTAMU/</link>
+        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2023/06/ElnazTAMU/</guid>
+        
+        <category>news</category>
+        
+        
+        <category>jobs</category>
+        
+      </item>
     
       <item>
         <title>Alonso receives the 2023 Latin American Studies Research Award from the Einaudi Center for International Studies at Cornell.</title>
@@ -129,33 +159,6 @@ The model and data can be found in &lt;a href=&quot;https://github.com/AndersonE
         
         
         <category>Announcements</category>
-        
-      </item>
-    
-      <item>
-        <title>Postdoctoral Position Available</title>
-        <description>&lt;p&gt;Cornell BEE is &lt;a href=&quot;https://academicjobsonline.org/ajo/jobs/17811&quot; target=&quot;_blank&quot;&gt;advertising&lt;/a&gt; for a postdoc! The position is part of a USDA-funded, interdisciplinary team looking at agricultural-to-energy transitions in New York State. The postdoc will be co-supervised by &lt;a href=&quot;https://blogs.cornell.edu/anderson1/&quot; target=&quot;_blank&quot;&gt;Lindsay Anderson&lt;/a&gt;, &lt;a href=&quot;https://blogs.cornell.edu/steinschneider/&quot; target=&quot;_blank&quot;&gt;Scott Steinschneider&lt;/a&gt;, and myself, and will have the opportunity to interact widely with other faculty.&lt;/p&gt;
-
-&lt;p&gt;We’re interested in developing an energy demand model which is sensitive to nonlinear climate dynamics, as well as applying a climate stress test to a model of the New York State power system, which the postdoc would also help to develop. There are many interesting questions at the nexus of energy, water, and climate that the hired candidate would be able to explore.&lt;/p&gt;
-
-&lt;p&gt;A successful candidate would have:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A Ph.D in power and energy systems or operations research;&lt;/li&gt;
-  &lt;li&gt;Programming skills in at least one major programming language (&lt;em&gt;e.g.&lt;/em&gt; R, Python, Julia, etc.)&lt;/li&gt;
-  &lt;li&gt;Experience and proficiency with statistical modeling;&lt;/li&gt;
-  &lt;li&gt;Good communication skills and an interest and ability in developing working relationships with stakeholders.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The anticipated start date is April 1, 2021, though this is flexible. To apply, go to &lt;a href=&quot;https://academicjobsonline.org/ajo/jobs/17811&quot; target=&quot;_blank&quot;&gt;Academic Jobs Online&lt;/a&gt;. And feel free to &lt;a href=&quot;mailto: vs498@cornell.edu&quot;&gt;email me&lt;/a&gt; if you have any questions!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2021/01/postdoc-available-usda/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2021/01/postdoc-available-usda/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>Openings</category>
         
       </item>
     
