@@ -6,9 +6,24 @@
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jul 2023 15:17:12 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Jul 2023 15:17:12 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Jul 2023 22:59:15 +0000</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2023 22:59:15 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Congratulations to Vivienne Liu on successful defense of her PhD!</title>
+        <description>&lt;p&gt;Congratulations to Vivienne Liu on a (well-deserved) successful B-exam! Post-defense picture to follow. We are thrilled for you and can’t wait to see the amazing things you will do at NREL.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+        <link>https://andersonenergylab-cornell.github.io/2023/07/VivienneBExam/</link>
+        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2023/07/VivienneBExam/</guid>
+        
+        <category>news</category>
+        
+        
+        <category>jobs</category>
+        
+      </item>
     
       <item>
         <title>Congratulations to Vivienne Liu on her new position at National Renewable Energy Lab!</title>
@@ -144,21 +159,6 @@ The model and data can be found in &lt;a href=&quot;https://github.com/AndersonE
         
         
         <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome back to the lab Shikhar!</title>
-        <description>&lt;p&gt;After a few years at Avangrid, we are excited to welcome Shikhar Prakash back to the team as a Ph.D. student. Welcome back Shikhar!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2022/08/Shikarreturns/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2022/08/Shikarreturns/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>Announcements</category>
         
       </item>
     
