@@ -109,3 +109,108 @@ permalink: /members/
 <div class="clearfix"></div>
 
 </div>
+
+{% assign people = site.data.people | where: "status", "former" | sort_natural: "name" %}
+{% if people != blank %}
+<h2>Former Members</h2>
+
+<div class="container">
+
+{% assign counter = 1 %}
+{% for person in people %}
+{% if counter > 1 %}
+<div style="grid-column: span 12">
+<hr>
+</div>
+{% endif %}
+
+  <div class="group-member-photo">
+    <span class="helper"></span>
+    <img src="/assets/img/members/{{ person.photo }}" alt="{{ person.first_name }} {{ person.last_name }}">
+  </div>
+
+  <div class="group-member-bio">
+    {% if person.anchor %}
+    <a name="{{ person.anchor }}"></a>
+    {% else %}
+    <a name="{{person.first_name}} {{ person.last_name }}"></a>
+    {% endif %}
+    <h3>
+      {{ person.first_name }} {{ person.last_name }}{% if person.namedrop %} <a href="http://nmdrp.me/{{ person.namedrop }}" style="color: #359245"><i class="fas fa-volume-up"></i></a>{% endif %},
+      {{ person.position }}
+    </h3>
+    <div>
+      {% if person.pronouns %}
+      <img src="https://img.shields.io/static/v1?label=pronouns&message={{ person.pronouns }}&color=red&style=flat-square"
+        alt="Pronouns">
+      {% endif %}
+    {% if person.email %}
+    <a href="mailto:{{ person.email }}">
+      <img
+        src="https://img.shields.io/static/v1?label=email&message={{ person.email }}&color=blue&style=flat-square&logo=gmail"
+        alt="email">
+    </a>
+    {% endif %}
+    {% if person.website %}
+    <a href="{{ person.website }}" target="_blank">
+      <img src="https://img.shields.io/website?style=flat-square&cacheSeconds=600&url={{ person.website|urlencode }}" alt="Website">
+    </a>
+    {% endif %}
+    {% if person.cv %}
+    <a href="{{ person.cv }}" target="_blank">
+      <img src="https://img.shields.io/website?style=flat-square&cacheSeconds=600&url={{ person.cv|urlencode }}&label=Curriculum Vitae"
+        alt="CV">
+    </a>
+    {% endif %}
+    <!-- Academic identity -->
+    {% if person.orcid %}
+    <a href="https://orcid.org/{{ person.orcid }}" target="_blank">
+      <img
+        src="https://img.shields.io/static/v1?label=ORCID&message={{ person.orcid }}&color=green&style=flat-square&logo=orcid"
+        alt="ORCID Profile">
+    </a>
+    {% endif %}
+    {% if person.scholar %}
+    <a href="https://scholar.google.com/citations?user={{ person.scholar }}" target="_blank">
+      <img
+        src="https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar"
+        alt="Google Scholar">
+    </a>
+    {% endif %}
+    {% if person.researchgate %}
+    <a href="https://researchgate.net/profile/{{ person.researchgate }}" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=&message=ResearchGate&color=gray&style=flat-square&logo=researchgate"
+      alt="ResearchGate">
+    </a>
+    {% endif %}
+    <!-- Social media identity -->
+    {% if person.twitter %}
+    <a href="https://twitter.com/{{ person.twitter }}" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/{{ person.twitter }}?logo=twitter&style=flat-square"
+        alt="Twitter">
+    </a>
+    {% endif %}
+    {% if person.linkedin %}
+    <a href="https://www.linkedin.com/in/{{ person.linkedin }}" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin"
+        alt="LinkedIn">
+    </a>
+    {% endif %}
+    {% if person.github %}
+    <a href="http://github.com/{{ person.github }}" target="_blank">
+      <img src="https://img.shields.io/github/followers/{{ person.github }}?label=Github&logo=github&style=flat-square"
+        alt="GitHub Profile">
+    </a>
+    {% endif %}
+
+    </div>
+  </div>
+
+{% assign counter = counter | plus: 1 %}
+{% endfor %}
+
+{% endif %}
+
+<div class="clearfix"></div>
+
+</div>
