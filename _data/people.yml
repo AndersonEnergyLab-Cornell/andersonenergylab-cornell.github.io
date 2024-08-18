@@ -14,7 +14,7 @@
   orcid: 0000-0002-5148-0118 # your orcid id
   researchgate: Catherine-Anderson-6 # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
-  bio: Catherine (Lindsay) Anderson is Professor and Chair of the Department of Biological & Environmental Engineering at Cornell. Her research focuses on  energy system decarbonization, at the interface of environmental and systems engineering, electric power systems, applied optimization and decision science. She is a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE), and Senior Fellow of the Cornell Atkinson Center for Sustainabilty. Lindsay also serves as the interim Director of the Cornell Energy Systems Institute, and was previously the Kathy Dwyer Marble and Curt Marble Faculty Director for Energy with the Cornell Atkinson Center for Sustainability. Dr. Anderson received a B.Sc.(Engineering) and an M.S. in Environmental Engineering from University of Guelph (Canada) and Ph.D in Applied Mathematics from the University of Western Ontario (Canada)
+  bio: Catherine (Lindsay) Anderson is Professor and Chair of the Department of Biological & Environmental Engineering at Cornell. Her research focuses on  energy system decarbonization, at the interface of environmental and systems engineering, electric power systems, applied optimization and decision science. She is a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE), and Senior Fellow of the Cornell Atkinson Center for Sustainabilty. Lindsay previously serves as the interim Director of the Cornell Energy Systems Institute, and the Kathy Dwyer Marble and Curt Marble Faculty Director for Energy with the Cornell Atkinson Center for Sustainability. Dr. Anderson received a B.Sc.(Engineering) and an M.S. in Environmental Engineering from University of Guelph (Canada) and Ph.D in Applied Mathematics from the University of Western Ontario (Canada)
 
 - first_name: Elnaz # your first name
   last_name: Kabir # your last name
@@ -30,8 +30,9 @@
   orcid:  # your orcid id
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
+  status: former # former group members!
   bio: # format with Markdown
-   Elnaz is a Post-Doctoral Associate in the Biological and Environmental Engineering Department, working jointly with Profs. Lindsay Anderson, Scott Steinschneider, and Vivek Srikrishnan. Before joining Cornell, Elnaz received her Ph.D. degree in Industrial and Operations Engineering and her Master’s degree in Statistics, both from the University of Michigan. Her research interest lies at the intersection of data and risk analytics, machine learning, and applied optimization. In particular, she develops data-driven frameworks under uncertainty for predictive and prescriptive analytics to solve real-world problems related to power system resiliency. Currently, her focus is on power system decarbonization and the risks arising from large-scale renewable energy integration.
+   Elnaz was a Post-Doctoral Associate in the Biological and Environmental Engineering Department, working jointly with Profs. Lindsay Anderson, Scott Steinschneider, and Vivek Srikrishnan. Before joining Cornell, Elnaz received her Ph.D. degree in Industrial and Operations Engineering and her Master’s degree in Statistics, both from the University of Michigan. Her research interest lies at the intersection of data and risk analytics, machine learning, and applied optimization. In particular, she develops data-driven frameworks under uncertainty for predictive and prescriptive analytics to solve real-world problems related to power system resiliency. Currently, her focus is on power system decarbonization and the risks arising from large-scale renewable energy integration. Dr. Kabir is now an Assistant Professor at Texas A&M University.
    
 - first_name: Alonso # your first name
   last_name: Alegre-Bravo # your last name
