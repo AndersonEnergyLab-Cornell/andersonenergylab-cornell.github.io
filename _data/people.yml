@@ -138,7 +138,7 @@
   title: Dr. # Mr., Mrs., Ms., Dr., etc
   anchor: svn23  # allows you to link to a specific person
   position: Postdoctoral Associate # your role within the group
-  photo: ZongjieWangImg.JPeG # your photo in /assets/img/members/
+  photo: ZongjieWang.jpg # your photo in /assets/img/members/
   website:  # URL for your personal website
   cv:  # URL for your CV -- optional, but recommended
   email: zongjie.wang@uconn.edu
