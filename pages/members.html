@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group Members
+title: Our Team
 permalink: /members/
 
 ---
@@ -10,13 +10,10 @@ permalink: /members/
 
 <!-- Loop through group members -->
 {% assign counter = 1 %}
-
-{% assign people = site.data.people | where: "status", "current" %}
-{% for pos in site.member-positions %}
-
-{% assign current-position = people | where: "position", pos | sort_natural: "last_name" %} 
-{% for person in current-position %}
+{% assign people = site.data.people %}
+{% for person in people %}
 {% if counter > 1 %}
+
 <div style="grid-column: span 12">
 <hr>
 </div>
