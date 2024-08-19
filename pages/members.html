@@ -10,7 +10,7 @@ permalink: /members/
 
 <!-- Loop through group members -->
 {% assign counter = 1 %}
-{% assign people = site.data.people %}
+{% assign people = site.data.people | where: "status", "current" %}
 {% for person in people %}
 {% if counter > 1 %}
 
@@ -113,6 +113,8 @@ permalink: /members/
 
 {% assign people = site.data.people | where: "status", "former" | sort_natural: "name" %}
 {% if people != blank %}
+
+<hr>
 
 <h2>Former Members</h2>
 
