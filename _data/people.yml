@@ -64,7 +64,8 @@
   orcid:  # your orcid id
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
-  bio: Vivienne is a Ph.D student in Systems Engineering. Prior to joining Cornell, she got her Bachelor’s degree in Electrical and Information Engineering from Tianjin University and Master’s degree in Electrical Engineering from Stanford University. She is broadly interested in the area of control and optimization of smart grids with renewable energy integration and her current work focuses on using multi-objective simulation-based optimization methods to help inform policies on the management of microgrids energy systems.
+  bio: Vivienne is a Ph.D student in Systems Engineering. Prior to joining Cornell, she got her Bachelor’s degree in Electrical and Information Engineering from Tianjin University and Master’s degree in Electrical Engineering from Stanford University. She is broadly interested in the area of control and optimization of smart grids with renewable energy integration and her current work focuses on using multi-objective simulation-based optimization methods to help inform policies on the management of microgrids energy systems. Dr. Liu is currently a research scientist at the National Renewable Energy Laboratory. 
+  status: former # former group members!
 
 - first_name: Shriya # your first name
   last_name: Nagpal # your last name
@@ -80,6 +81,7 @@
   orcid: 
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
+    status: former # former group members!
   bio: Shriya is a Ph.D. student at the Center for Applied Mathematics. Prior to joining Cornell, she received her Bachelor’s degree in Mathematics from Trinity College. Her research leverages tools from complex networks and dynamical systems to study properties that underpin networks of coupled phase-oscillators. Outside of research, she is passionate about teaching, and has received graduate teaching awards from both the Department of Mathematics (2020) and the Department of Computer Science (2021) at Cornell University.
 
 - first_name: Tayler # your first name
