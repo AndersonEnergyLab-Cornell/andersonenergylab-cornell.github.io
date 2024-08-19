@@ -14,6 +14,7 @@
   orcid: 0000-0002-5148-0118 # your orcid id
   researchgate: Catherine-Anderson-6 # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
+  status: current
   bio: Catherine (Lindsay) Anderson is Professor and Chair of the Department of Biological & Environmental Engineering at Cornell. Her research focuses on  energy system decarbonization, at the interface of environmental and systems engineering, electric power systems, applied optimization and decision science. She is a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE), and Senior Fellow of the Cornell Atkinson Center for Sustainabilty. Lindsay previously serves as the interim Director of the Cornell Energy Systems Institute, and the Kathy Dwyer Marble and Curt Marble Faculty Director for Energy with the Cornell Atkinson Center for Sustainability. Dr. Anderson received a B.Sc.(Engineering) and an M.S. in Environmental Engineering from University of Guelph (Canada) and Ph.D in Applied Mathematics from the University of Western Ontario (Canada)
 
 - first_name: Elnaz # your first name
@@ -48,6 +49,7 @@
   orcid: 0000-0003-4279-8906 # your orcid id
   researchgate: # your researchgate profile name
   pronouns: he/him/his # your preferred pronouns
+  status: current
   bio: Alonso is a Ph.D. student in Biological and Environmental Engineering and a Fulbright scholar. Before arriving to Cornell, he worked on rural electrification projects in Latin America. His research focuses on finding ways to improve access to electricity policies in Latin America and the Caribbean. He holds a M.Sc. in Sustainable Energy Development from the University of Calgary and Bachelor’s degree in Electro-mechanical Engineering from the Instituto Tecnologico de Costa Rica. In his free time, he enjoys to play tennis, be in nature, and karaoke.
 
 - first_name: Mengwei (Vivienne) # your first name
@@ -67,6 +69,7 @@
   status: former # former group members!
   bio: Vivienne is a Ph.D student in Systems Engineering. Prior to joining Cornell, she got her Bachelor’s degree in Electrical and Information Engineering from Tianjin University and Master’s degree in Electrical Engineering from Stanford University. She is broadly interested in the area of control and optimization of smart grids with renewable energy integration and her current work focuses on using multi-objective simulation-based optimization methods to help inform policies on the management of microgrids energy systems. Dr. Liu is currently a research scientist at the National Renewable Energy Laboratory. 
  
+
 - first_name: Shriya # your first name
   last_name: Nagpal # your last name
   title: # Mr., Mrs., Ms., Dr., etc
@@ -98,6 +101,7 @@
   orcid:  0000-0003-4023-18434# your orcid id
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
+  status: current
   bio: Tayler is a Ph.D. student at the Center for Applied Mathematics. Prior to joining Cornell, she received her Bachelor’s degree in Mathematics from Northeastern University and a post-baccalaureate certificate in Mathematics from Smith College. Her research interest broadly lies at the intersection of graph theory and optimization in complex networks with applications to power systems and other infrastructure networks. Outside of research, Tayler enjoys singing, running, and powerlifting. 
   
 - first_name: Gerald # your first name
@@ -114,6 +118,7 @@
   orcid:  # your orcid id
   researchgate:  # your researchgate profile name
   pronouns: he/him/his # your preferred pronouns
+  status: current
   bio: Gerald is a Ph.D. student in the department of Systems Engineering. He hold's a Bachelor’s degree in Electrical and Electronics Engineering from the Federal University of Technology, Owerri. His research interest is in the area of distributed control and optimization of power systems with significant share of renewable generation. Outside research, Gerald enjoys playing soccer and cycling.
 
 - first_name: Shikhar # your first name
@@ -130,9 +135,10 @@
   orcid:  0000-0002-7118-3479# your orcid id
   researchgate:  # your researchgate profile name
   pronouns: he/him/his # your preferred pronouns
+  status: current
   bio: Shikhar joined Ph.D. in Systems Engineering at Cornell University after 2.5 years of work experience in the energy industry. Prior to this, he completed his master’s degree in Biological and Environmental Engineering from Cornell University, and bachelor’s degree in Chemical Engineering from Jaypee University, India. He has multidisciplinary interest. In Anderson Research Group, Shikhar is working in the field of System Optimization based on Behavioral Economics in the Energy Transmission and Distribution Sector. Apart from his academic life, on weekends he enjoys hiking and exploring nature, and in the evening, he finds joy in running, swimming and badminton.
 
-first_name: Zongjie # your first name
+  first_name: Zongjie # your first name
   last_name: Wang # your last name
   title: Dr. # Mr., Mrs., Ms., Dr., etc
   anchor: svn23  # allows you to link to a specific person
