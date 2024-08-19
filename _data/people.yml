@@ -31,9 +31,9 @@
   orcid:  # your orcid id
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
-  status: former # former group members!
   bio: # format with Markdown
    Elnaz was a Post-Doctoral Associate in the Biological and Environmental Engineering Department, working jointly with Profs. Lindsay Anderson, Scott Steinschneider, and Vivek Srikrishnan. Before joining Cornell, Elnaz received her Ph.D. degree in Industrial and Operations Engineering and her Master’s degree in Statistics, both from the University of Michigan. Her research interest lies at the intersection of data and risk analytics, machine learning, and applied optimization. In particular, she develops data-driven frameworks under uncertainty for predictive and prescriptive analytics to solve real-world problems related to power system resiliency. Currently, her focus is on power system decarbonization and the risks arising from large-scale renewable energy integration. Dr. Kabir is now an Assistant Professor at Texas A&M University.
+  status: former # former group members!
    
 - first_name: Alonso # your first name
   last_name: Alegre-Bravo # your last name
@@ -49,8 +49,8 @@
   orcid: 0000-0003-4279-8906 # your orcid id
   researchgate: # your researchgate profile name
   pronouns: he/him/his # your preferred pronouns
-  status: current
   bio: Alonso is a Ph.D. student in Biological and Environmental Engineering and a Fulbright scholar. Before arriving to Cornell, he worked on rural electrification projects in Latin America. His research focuses on finding ways to improve access to electricity policies in Latin America and the Caribbean. He holds a M.Sc. in Sustainable Energy Development from the University of Calgary and Bachelor’s degree in Electro-mechanical Engineering from the Instituto Tecnologico de Costa Rica. In his free time, he enjoys to play tennis, be in nature, and karaoke.
+  status: current
 
 - first_name: Mengwei (Vivienne) # your first name
   last_name: Liu # your last name
@@ -66,8 +66,8 @@
   orcid:  # your orcid id
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
-  status: former # former group members!
   bio: Vivienne is a Ph.D student in Systems Engineering. Prior to joining Cornell, she got her Bachelor’s degree in Electrical and Information Engineering from Tianjin University and Master’s degree in Electrical Engineering from Stanford University. She is broadly interested in the area of control and optimization of smart grids with renewable energy integration and her current work focuses on using multi-objective simulation-based optimization methods to help inform policies on the management of microgrids energy systems. Dr. Liu is currently a research scientist at the National Renewable Energy Laboratory. 
+  status: former
  
 
 - first_name: Shriya # your first name
@@ -153,4 +153,3 @@
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
   status: former # former group members!
-  bio: 
