@@ -6,8 +6,8 @@
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Sep 2024 15:32:29 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Sep 2024 15:32:29 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Sep 2024 15:34:04 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Sep 2024 15:34:04 +0000</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -17,21 +17,6 @@
         <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
         <link>https://andersonenergylab-cornell.github.io/2024/07/ShriyaBexam/</link>
         <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2024/07/ShriyaBexam/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>jobs</category>
-        
-      </item>
-    
-      <item>
-        <title>Congratulations to Shriya Nagpal on successful defense of her PhD!</title>
-        <description>&lt;p&gt;Congratulations to Dr. Shriya Nagpal on her successful B-exam! Post-defense picture to follow. We are thrilled for you. Best of luck on your new job as an &lt;a href=&quot;https://www.pitzer.edu/faculty-staff-directory/shriya-nagpal&quot;&gt;Assistant Professor at Pitzer College&lt;/a&gt; - the students are lucky to have you!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2023/07/2024ShriyaBexam/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2023/07/2024ShriyaBexam/</guid>
         
         <category>news</category>
         
@@ -152,6 +137,22 @@
         <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
         <link>https://andersonenergylab-cornell.github.io/2023/01/VML-HICSS2023/</link>
         <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2023/01/VML-HICSS2023/</guid>
+        
+        <category>news</category>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>New paper by Shriya Nagpal!</title>
+        <description>&lt;p&gt;Shriya Nagpal’s recent article explores new methods for designing networks that are robust to oscillations that may arise from renewable energy resources. The article appears in &lt;a href=&quot;https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9919347&quot;&gt;IEEE Transactions on Control of Network Systems&lt;/a&gt;. Congrats to Shriya and collaborators &lt;a href=&quot;https://nairgokul.github.io&quot;&gt;Gokul Nair&lt;/a&gt; and &lt;a href=&quot;https://sites.coecis.cornell.edu/parise/&quot;&gt;Prof. Francesca Parise&lt;/a&gt; on a job well done!&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+        <link>https://andersonenergylab-cornell.github.io/2022/10/ShriyaArticle/</link>
+        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2022/10/ShriyaArticle/</guid>
         
         <category>news</category>
         
