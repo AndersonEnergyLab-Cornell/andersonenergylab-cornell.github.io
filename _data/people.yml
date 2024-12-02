@@ -56,7 +56,7 @@
   last_name: Liu # your last name
   title: Ms. # Mr., Mrs., Ms., Dr., etc
   anchor: ml2589 # allows you to link to a specific person
-  position: Ph.D. Student # your role within the group
+  position: Ph.D. 2023 # your role within the group
   photo:  VivienneLiu.jpeg # your photo in /assets/img/members/
   website:  https://vivienne16.github.io/personal-website/ # URL for your personal website
   cv:  # URL for your CV -- optional, but recommended
@@ -74,7 +74,7 @@
   last_name: Nagpal # your last name
   title: # Mr., Mrs., Ms., Dr., etc
   anchor: svn23  # allows you to link to a specific person
-  position: Ph.D. Student # your role within the group
+  position: Ph.D. 2024 # your role within the group
   photo: Shriya_Nagpal.JPG # your photo in /assets/img/members/
   website: https://www.pitzer.edu/faculty-staff-directory/shriya-nagpal # URL for your personal website
   cv:  # URL for your CV -- optional, but recommended
@@ -142,7 +142,7 @@
   last_name: Wang # your last name
   title: Dr. # Mr., Mrs., Ms., Dr., etc
   anchor: zw337  # allows you to link to a specific person
-  position: Postdoctoral Associate # your role within the group
+  position: Postdoctoral Associate (former) # your role within the group
   photo: ZongjieWang.jpg # your photo in /assets/img/members/
   website: https://www.ee.uconn.edu/zongjie-wang/ # URL for your personal website
   cv:  # URL for your CV -- optional, but recommended
