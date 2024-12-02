@@ -66,7 +66,7 @@
   orcid:  # your orcid id
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
-  bio: Vivienne is a Ph.D student in Systems Engineering. Prior to joining Cornell, she got her Bachelor’s degree in Electrical and Information Engineering from Tianjin University and Master’s degree in Electrical Engineering from Stanford University. She is broadly interested in the area of control and optimization of smart grids with renewable energy integration and her current work focuses on using multi-objective simulation-based optimization methods to help inform policies on the management of microgrids energy systems. Dr. Liu is currently a research scientist at the National Renewable Energy Laboratory. 
+  bio: Vivienne completed her Ph.D in Systems Engineering in 2023. Prior to joining Cornell, she earned her Bachelor’s degree in Electrical and Information Engineering from Tianjin University and Master’s degree in Electrical Engineering from Stanford University. She is broadly interested in the area of control and optimization of smart grids with renewable energy integration and her current work focuses on using multi-objective simulation-based optimization methods to help inform policies on the management of microgrids energy systems. Dr. Liu is currently a research scientist at the National Renewable Energy Laboratory. 
   status: former
  
 
@@ -85,7 +85,7 @@
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
   status: former # former group members!
-  bio: Shriya is a Ph.D. student at the Center for Applied Mathematics. Prior to joining Cornell, she received her Bachelor’s degree in Mathematics from Trinity College. Her research leverages tools from complex networks and dynamical systems to study properties that underpin networks of coupled phase-oscillators. Outside of research, she is passionate about teaching, and has received graduate teaching awards from both the Department of Mathematics (2020) and the Department of Computer Science (2021) at Cornell University.
+  bio: Shriya earned her Ph.D. in Applied Mathematics from Cornell in 2024. Prior her doctoral work at Cornell, she received her Bachelor’s degree in Mathematics from Trinity College. Her research leverages tools from complex networks and dynamical systems to study properties that underpin networks of coupled phase-oscillators. Outside of research, she is passionate about teaching, and has received graduate teaching awards from both the Department of Mathematics (2020) and the Department of Computer Science (2021) at Cornell University. Dr. Nagpal is now an Assistant Professor of Mathematics at Pitzer College in California. 
 
 - first_name: Tayler # your first name
   last_name: Fernandes Nunez # your last name
@@ -141,7 +141,7 @@
   first_name: Zongjie # your first name
   last_name: Wang # your last name
   title: Dr. # Mr., Mrs., Ms., Dr., etc
-  anchor: svn23  # allows you to link to a specific person
+  anchor: zw337  # allows you to link to a specific person
   position: Postdoctoral Associate # your role within the group
   photo: ZongjieWang.jpg # your photo in /assets/img/members/
   website: https://www.ee.uconn.edu/zongjie-wang/ # URL for your personal website
@@ -153,3 +153,4 @@
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
   status: former # former group members!
+  bio: Dr. Wang was a postdoctoral associate in the Anderson Energy Lab from 2019-2021. She is now an Assistant Professor in Electrical and Computer Engineering and an Associate Director at the Eversource Center at University of Connecticut. 
