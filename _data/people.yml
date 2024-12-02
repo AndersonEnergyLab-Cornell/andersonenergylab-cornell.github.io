@@ -21,7 +21,7 @@
   last_name: Kabir # your last name
   title: Dr. # Mr., Mrs., Ms., Dr., etc
   anchor: ek574 # allows you to link to a specific person
-  position: Post-Doctoral Associate # your role within the group
+  position: Post-Doctoral Associate (former) # your role within the group
   photo:  ElnazKabir.jpg # your photo in /assets/img/members/
   website: https://elnaz-kabir.github.io/ # URL for your personal website
   cv:  # URL for your CV -- optional, but recommended
