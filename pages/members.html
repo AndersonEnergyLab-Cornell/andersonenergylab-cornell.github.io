@@ -206,7 +206,11 @@ permalink: /members/
         alt="GitHub Profile">
     </a>
     {% endif %}
-
+ 
+    <!-- bio and description just added for former members-->
+  {% if person.bio %}
+  <p>{{ person.bio | markdownify }}</p>
+  {% endif %}
     </div>
   </div>
 
