@@ -6,9 +6,24 @@
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Sep 2024 15:34:04 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Sep 2024 15:34:04 +0000</lastBuildDate>
-    <generator>Jekyll v4.3.3</generator>
+    <pubDate>Mon, 02 Dec 2024 16:07:30 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2024 16:07:30 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Congrats Alonso, on your new paper published in Applied Energy!</title>
+        <description>&lt;p&gt;Alonso’s new paper explores the role of electricity access and energy justice in Latin America.  The article appears in &lt;a href=&quot;https://doi.org/10.1016/j.apenergy.2024.124877&quot;&gt;Applied Energy&lt;/a&gt;. Congratulations Alonso!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+        <link>https://andersonenergylab-cornell.github.io/2024/12/Alonso-AppliedEnergy2/</link>
+        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2024/12/Alonso-AppliedEnergy2/</guid>
+        
+        <category>news</category>
+        
+        
+        <category>papers</category>
+        
+      </item>
     
       <item>
         <title>Congratulations to Shriya Nagpal on successful defense of her PhD!</title>
@@ -137,22 +152,6 @@
         <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
         <link>https://andersonenergylab-cornell.github.io/2023/01/VML-HICSS2023/</link>
         <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2023/01/VML-HICSS2023/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>New paper by Shriya Nagpal!</title>
-        <description>&lt;p&gt;Shriya Nagpal’s recent article explores new methods for designing networks that are robust to oscillations that may arise from renewable energy resources. The article appears in &lt;a href=&quot;https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9919347&quot;&gt;IEEE Transactions on Control of Network Systems&lt;/a&gt;. Congrats to Shriya and collaborators &lt;a href=&quot;https://nairgokul.github.io&quot;&gt;Gokul Nair&lt;/a&gt; and &lt;a href=&quot;https://sites.coecis.cornell.edu/parise/&quot;&gt;Prof. Francesca Parise&lt;/a&gt; on a job well done!&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2022/10/ShriyaArticle/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2022/10/ShriyaArticle/</guid>
         
         <category>news</category>
         
