@@ -31,8 +31,7 @@
   orcid:  # your orcid id
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
-  bio: # format with Markdown
-   Elnaz was a Post-Doctoral Associate in the Biological and Environmental Engineering Department, working jointly with Profs. Lindsay Anderson, Scott Steinschneider, and Vivek Srikrishnan. Before joining Cornell, Elnaz received her Ph.D. degree in Industrial and Operations Engineering and her Master’s degree in Statistics, both from the University of Michigan. Her research interest lies at the intersection of data and risk analytics, machine learning, and applied optimization. In particular, she develops data-driven frameworks under uncertainty for predictive and prescriptive analytics to solve real-world problems related to power system resiliency. Currently, her focus is on power system decarbonization and the risks arising from large-scale renewable energy integration. Dr. Kabir is now an Assistant Professor at Texas A&M University.
+  bio: Elnaz was a Post-Doctoral Associate in the Biological and Environmental Engineering Department, working jointly with Profs. Lindsay Anderson, Scott Steinschneider, and Vivek Srikrishnan. Before joining Cornell, Elnaz received her Ph.D. degree in Industrial and Operations Engineering and her Master’s degree in Statistics, both from the University of Michigan. Her research interest lies at the intersection of data and risk analytics, machine learning, and applied optimization. In particular, she develops data-driven frameworks under uncertainty for predictive and prescriptive analytics to solve real-world problems related to power system resiliency. Currently, her focus is on power system decarbonization and the risks arising from large-scale renewable energy integration. Dr. Kabir is now an Assistant Professor at Texas A&M University.
   status: former # former group members!
    
 - first_name: Alonso # your first name
@@ -69,7 +68,6 @@
   bio: Vivienne completed her Ph.D in Systems Engineering in 2023. Prior to joining Cornell, she earned her Bachelor’s degree in Electrical and Information Engineering from Tianjin University and Master’s degree in Electrical Engineering from Stanford University. She is broadly interested in the area of control and optimization of smart grids with renewable energy integration and her current work focuses on using multi-objective simulation-based optimization methods to help inform policies on the management of microgrids energy systems. Dr. Liu is currently a research scientist at the National Renewable Energy Laboratory. 
   status: former
  
-
 - first_name: Shriya # your first name
   last_name: Nagpal # your last name
   title: # Mr., Mrs., Ms., Dr., etc
@@ -84,8 +82,8 @@
   orcid: 
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
-  status: former # former group members!
   bio: Shriya earned her Ph.D. in Applied Mathematics from Cornell in 2024. Prior her doctoral work at Cornell, she received her Bachelor’s degree in Mathematics from Trinity College. Her research leverages tools from complex networks and dynamical systems to study properties that underpin networks of coupled phase-oscillators. Outside of research, she is passionate about teaching, and has received graduate teaching awards from both the Department of Mathematics (2020) and the Department of Computer Science (2021) at Cornell University. Dr. Nagpal is now an Assistant Professor of Mathematics at Pitzer College in California. 
+  status: former # former group members!
 
 - first_name: Tayler # your first name
   last_name: Fernandes Nunez # your last name
@@ -101,10 +99,10 @@
   orcid:  0000-0003-4023-18434# your orcid id
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
+  bio: Tayler is a Ph.D. student at the Center for Applied Mathematics. Before joining Cornell, she received her Bachelors degree in Mathematics from Northeastern University and a post-baccalaureate certificate in Mathematics from Smith College. Her research interests broadly lie at the intersection of graph theory and optimization in complex networks, with applications to power systems and other infrastructure networks. Outside of research, Tayler enjoys singing, running, and powerlifting. 
   status: current
-  bio: Tayler is a Ph.D. student at the Center for Applied Mathematics. Prior to joining Cornell, she received her Bachelor’s degree in Mathematics from Northeastern University and a post-baccalaureate certificate in Mathematics from Smith College. Her research interest broadly lies at the intersection of graph theory and optimization in complex networks with applications to power systems and other infrastructure networks. Outside of research, Tayler enjoys singing, running, and powerlifting. 
-  
-- first_name: Gerald # your first name
+- 
+first_name: Gerald # your first name
   last_name: Ogbonna # your last name
   title: # Mr., Mrs., Ms., Dr., etc
   anchor: gco27  # allows you to link to a specific person
@@ -118,8 +116,8 @@
   orcid:  # your orcid id
   researchgate:  # your researchgate profile name
   pronouns: he/him/his # your preferred pronouns
-  status: current
   bio: Gerald is a Ph.D. student in Systems Engineering. He has a Bachelor’s degree in Electrical and Electronics Engineering from the Federal University of Technology, Owerri. His research interest is in the area of distributed control and optimization of power systems with a significant share of renewable generation. Outside of research, Gerald enjoys playing soccer and cycling.
+  status: current
 
   first_name: Zongjie # your first name
   last_name: Wang # your last name
@@ -127,13 +125,30 @@
   anchor: zw337  # allows you to link to a specific person
   position: Postdoctoral Associate (former) # your role within the group
   photo: ZongjieWang.jpg # your photo in /assets/img/members/
-  website: https://www.ee.uconn.edu/zongjie-wang/ # URL for your personal website
+  website: https://www.engr.colostate.edu/ece/people/zongjie-wang/ # URL for your personal website
   cv:  # URL for your CV -- optional, but recommended
-  email: zongjie.wang@uconn.edu
+  email: zongjie.wang@colostate.edu
   github:  # your github user name
   scholar:  # your google scholar id
   orcid: 
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
-  status: former # former group members!
-  bio: Dr. Wang was a postdoctoral associate in the Anderson Energy Lab from 2019-2021. She is now an Assistant Professor in Electrical and Computer Engineering and an Associate Director at the Eversource Center at University of Connecticut. 
+  bio: Dr. Wang was a postdoctoral associate in the Anderson Energy Lab from 2019-2021. She is now an Assistant Professor in Electrical and Computer Engineering and Director of the Grid Modernization Initiative, Energy Institute at Colorado State University. 
+  status: former
+  
+- first_name: Shikhar # your first name
+  last_name: Prakash # your last name
+  title: # Mr., Mrs., Ms., Dr., etc
+  anchor: sp868  # allows you to link to a specific person
+  position: Ph.D. Student # your role within the group
+  photo: ShikharPrakash.jpg # your photo in /assets/img/members/
+  website: https://www.linkedin.com/in/shikhar-prakash/ # URL for your personal website
+  cv:  # URL for your CV -- optional, but recommended
+  email: sp868@cornell.edu
+  github: shikhar1008 # your github user name
+  scholar: # your google scholar id
+  orcid:  0000-0002-7118-3479# your orcid id
+  researchgate:  # your researchgate profile name
+  pronouns: he/him/his # your preferred pronouns
+  bio: Shikhar returned to Cornell to pursue a Ph.D. in Systems Engineering after 2.5 years of work experience in the energy industry. Prior to this, he completed his master’s degree in Biological and Environmental Engineering from Cornell University, and bachelor’s degree in Chemical Engineering from Jaypee University, India. He has multidisciplinary interest. In Anderson Research Group, Shikhar is working in the field of System Optimization based on Behavioral Economics in the Energy Transmission and Distribution Sector. Apart from his academic life, on weekends he enjoys hiking and exploring nature, and in the evening, he finds joy in running, swimming and badminton.
+  status: current
