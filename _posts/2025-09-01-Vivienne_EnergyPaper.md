@@ -1,5 +1,5 @@
 ---
-title: "Congratulations Vivienne Liu, on your new paper published in Applied Energy!"
+title: "Congratulations Vivienne Liu, on your new paper published in Energy!"
 subtitle: "Energy system vulnerabilities in a zero-emission grid: The role of climate variability and technology uncertainty"
 author: Lindsay Anderson
 tags: news
