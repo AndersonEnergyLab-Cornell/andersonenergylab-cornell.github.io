@@ -96,10 +96,10 @@
   email: tf223@cornell.edu
   github: Taylerfnunez # your github user name
   scholar:  # your google scholar id
-  orcid:  0000-0003-4023-18434# your orcid id
+  orcid:  0000-0003-4023-18434 # your orcid id
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
-  bio: Tayler is a most excellent Ph.D. student at the Center for Applied Mathematics. Before joining Cornell, she received her Bachelors degree in Mathematics from Northeastern University and a post-baccalaureate certificate in Mathematics from Smith College. Her research interests broadly lie at the intersection of graph theory and optimization in complex networks, with applications to power systems and other infrastructure networks. Outside of research, Tayler enjoys singing, running, and powerlifting. 
+  bio: Tayler is a Ph.D. student at the Center for Applied Mathematics. Before joining Cornell, she received her Bachelors degree in Mathematics from Northeastern University and a post-baccalaureate certificate in Mathematics from Smith College. Her research interests broadly lie at the intersection of graph theory and optimization in complex networks, with applications to power systems and other infrastructure networks. Outside of research, Tayler enjoys singing, running, and powerlifting. 
   status: current
 
 - first_name: Gerald # your first name
@@ -119,21 +119,21 @@
   bio: Gerald is a Ph.D. student in Systems Engineering. He has a Bachelor’s degree in Electrical and Electronics Engineering from the Federal University of Technology, Owerri. His research interest is in the area of distributed control and optimization of power systems with a significant share of renewable generation. Outside of research, Gerald enjoys playing soccer and cycling.
   status: current
 
-- first_name: Test # your first name
-  last_name: Student # your last name
+- first_name: Shikhar # your first name
+  last_name: Prakash # your last name
   title: # Mr., Mrs., Ms., Dr., etc
-  anchor:   # allows you to link to a specific person
+  anchor:  sp868 # allows you to link to a specific person
   position: Ph.D. Student # your role within the group
-  photo:  # your photo in /assets/img/members/
-  website:  # URL for your personal website
-  cv: test123 # URL for your CV -- optional, but recommended
-  email:
-  github:  # your github user name
+  photo: ShikharPrakash.jpg # your photo in /assets/img/members/
+  website: https://www.linkedin.com/in/shikhar-prakash/ # URL for your personal website
+  cv:  # URL for your CV -- optional, but recommended
+  email: sp868@cornell.edu
+  github: shikhar1008 # your github user name
   scholar:  # your google scholar id
-  orcid:  # your orcid id
+  orcid: 0000-0002-7118-3479  # your orcid id
   researchgate:  # your researchgate profile name
-  pronouns:  # your preferred pronouns
-  bio: Test Bio
+  pronouns:  he/him/his # your preferred pronouns
+  bio: Shikhar returned to Cornell to pursue a Ph.D. in Systems Engineering after 2.5 years of work experience in the energy industry. Prior to this, he completed his master’s degree in Biological and Environmental Engineering from Cornell University, and bachelor’s degree in Chemical Engineering from Jaypee University, India. He has multidisciplinary interest. In Anderson Research Group, Shikhar is working in the field of System Optimization based on Behavioral Economics in the Energy Transmission and Distribution Sector. Apart from his academic life, on weekends he enjoys hiking and exploring nature, and in the evening, he finds joy in running, swimming and badminton.
   status: current
 
 - first_name: Shikhar # your first name
