@@ -136,22 +136,6 @@
   bio: Shikhar returned to Cornell to pursue a Ph.D. in Systems Engineering after 2.5 years of work experience in the energy industry. Prior to this, he completed his master’s degree in Biological and Environmental Engineering from Cornell University, and bachelor’s degree in Chemical Engineering from Jaypee University, India. He has multidisciplinary interest. In Anderson Research Group, Shikhar is working in the field of System Optimization based on Behavioral Economics in the Energy Transmission and Distribution Sector. Apart from his academic life, on weekends he enjoys hiking and exploring nature, and in the evening, he finds joy in running, swimming and badminton.
   status: current
 
-- first_name: Shikhar # your first name
-  last_name: Prakash # your last name
-  title: # Mr., Mrs., Ms., Dr., etc
-  anchor: sp868  # allows you to link to a specific person
-  position: Ph.D. Student # your role within the group
-  photo: # ShikharPrakash.jpg # your photo in /assets/img/members/
-  website: # https://www.linkedin.com/in/shikhar-prakash/ # URL for your personal website
-  cv:  # URL for your CV -- optional, but recommended
-  email: sp868@cornell.edu
-  github: shikhar1008 # your github user name
-  scholar: # your google scholar id
-  orcid:  0000-0002-7118-3479 # your orcid id
-  researchgate:  # your researchgate profile name
-  pronouns: he/him/his # your preferred pronouns
-  bio: Shikhar returned to Cornell to pursue a Ph.D. in Systems Engineering after 2.5 years of work experience in the energy industry. Prior to this, he completed his master’s degree in Biological and Environmental Engineering from Cornell University, and bachelor’s degree in Chemical Engineering from Jaypee University, India. He has multidisciplinary interest. In Anderson Research Group, Shikhar is working in the field of System Optimization based on Behavioral Economics in the Energy Transmission and Distribution Sector. Apart from his academic life, on weekends he enjoys hiking and exploring nature, and in the evening, he finds joy in running, swimming and badminton.
-  status: current
 
     
   first_name: Zongjie # your first name
