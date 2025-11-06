@@ -124,8 +124,8 @@
   title: # Mr., Mrs., Ms., Dr., etc
   anchor: sp868  # allows you to link to a specific person
   position: Ph.D. Student # your role within the group
-  photo: ShikharPrakash.jpg # your photo in /assets/img/members/
-  website: https://www.linkedin.com/in/shikhar-prakash/ # URL for your personal website
+  photo: # ShikharPrakash.jpg # your photo in /assets/img/members/
+  website: # https://www.linkedin.com/in/shikhar-prakash/ # URL for your personal website
   cv:  # URL for your CV -- optional, but recommended
   email: sp868@cornell.edu
   github: shikhar1008 # your github user name
