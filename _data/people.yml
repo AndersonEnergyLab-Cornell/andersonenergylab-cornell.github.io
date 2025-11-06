@@ -119,6 +119,23 @@
   bio: Gerald is a Ph.D. student in Systems Engineering. He has a Bachelor’s degree in Electrical and Electronics Engineering from the Federal University of Technology, Owerri. His research interest is in the area of distributed control and optimization of power systems with a significant share of renewable generation. Outside of research, Gerald enjoys playing soccer and cycling.
   status: current
 
+- first_name: Test # your first name
+  last_name: Student # your last name
+  title: # Mr., Mrs., Ms., Dr., etc
+  anchor:   # allows you to link to a specific person
+  position: Ph.D. Student # your role within the group
+  photo:  # your photo in /assets/img/members/
+  website:  # URL for your personal website
+  cv: test123 # URL for your CV -- optional, but recommended
+  email:
+  github:  # your github user name
+  scholar:  # your google scholar id
+  orcid:  # your orcid id
+  researchgate:  # your researchgate profile name
+  pronouns:  # your preferred pronouns
+  bio: Test Bio
+  status: current
+
 - first_name: Shikhar # your first name
   last_name: Prakash # your last name
   title: # Mr., Mrs., Ms., Dr., etc
