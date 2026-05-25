@@ -32,6 +32,7 @@ branch: master
 destination: _site
 production_url: https://andersonenergylab-cornell.github.io
 source_url: https://github.com/andersonenergylab-cornell/andersonenergylab-cornell.github.io
+labguide: https://andersonenergylab-cornell.github.io/anderson-group-manual/
 
 plugins_dir: "_plugins"
 plugins:
