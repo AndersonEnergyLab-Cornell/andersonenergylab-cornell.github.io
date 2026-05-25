@@ -17,9 +17,5 @@
 - title: "Join Us"
   href: "/join/"
 
-- title: "Lab Manual"
-  href: "https://andersonenergylab-cornell.github.io/anderson-group-manual/"
-  external: true
-
 - title: "Contact"
   href: "/contact/"
