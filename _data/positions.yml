@@ -10,5 +10,6 @@
   apply: Please see the lab manual's application instructions for graduate students (coming soon). Feel free to <a href="mailto:cla28@cornell.edu">email Lindsay</a> to introduce yourself and ask questions.
 
 - role: Postdoctoral Researchers
-  status: We are looking to hire a postdoc to work on energy systems optimization. Particular areas of interest are integrated system modeling, considering coupled infrastructure systems and/or demand response programs, but the successful candidate will have a large degree of freedom in designing their research portfolio. I am also happy to work with you on other postdoctoral opportunities, within Cornell or externally-funded. Please <a href="mailto:cla28s@cornell.edu">reach out</a> for more information.
+  # status: We are looking to hire a postdoc to work on energy systems optimization. Particular areas of interest are integrated system modeling, considering coupled infrastructure systems and/or demand response programs, but the successful candidate will have a large degree of freedom in designing their research portfolio. I am also happy to work with you on other postdoctoral opportunities, within Cornell or externally-funded. Please <a href="mailto:cla28s@cornell.edu">reach out</a> for more information.
+  status: We are not currently accepting applications for postdoctoral researchers. Please check back soon, as new positions will be posted here as they become available.
   apply: Please see the lab manual's <i>(coming soon!)</i> application instructions for postdocs. 
